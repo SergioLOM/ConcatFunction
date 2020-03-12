@@ -1,0 +1,6 @@
+C:\Users\sleon\source\repos\concatFunction\concatFunction\bin\Debug\concatFunction.exe.config
+C:\Users\sleon\source\repos\concatFunction\concatFunction\bin\Debug\concatFunction.exe
+C:\Users\sleon\source\repos\concatFunction\concatFunction\bin\Debug\concatFunction.pdb
+C:\Users\sleon\source\repos\concatFunction\concatFunction\obj\Debug\concatFunction.csprojAssemblyReference.cache
+C:\Users\sleon\source\repos\concatFunction\concatFunction\obj\Debug\concatFunction.exe
+C:\Users\sleon\source\repos\concatFunction\concatFunction\obj\Debug\concatFunction.pdb
